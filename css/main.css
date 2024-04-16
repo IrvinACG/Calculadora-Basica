@@ -1,0 +1,19 @@
+.bd-beige{
+    border: 2px solid #f5df98;
+}
+
+.bg-calculadora{
+    background: #fff8d4;
+    opacity: 96%;
+}
+
+.bg-fondo{
+    width: 100%;
+    height: 100vh;
+    /*Imagen obtenida por @Upklyak en sitio: https://www.freepik.es/*/
+    background-image: url(../image/fondo.webp); 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
